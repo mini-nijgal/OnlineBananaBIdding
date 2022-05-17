@@ -1,6 +1,6 @@
 # OnlineBananaBidding
 
-The online auction system based on the campus network is a type of customers to customer (C2C) business model that facilitates interaction among farmers and is a platform for exchange the goods information among students in the university.
+The online auction system based on the community network is a type of customers to customer (C2C) business model that facilitates interaction among farmers and is a platform for exchange the goods information among students in the university.
 
 Particularly, it offers the trade platform to buyers and sellers together with the campus network. The buyers like to do the trading on the online auction system, because the system brings out the advantages, for example, on the one hand the system employs computer technology to accelerate results of bidding activities in force and economize human resources, on this side, it does not restrict the number of participants who want to participate in; on the other hand the system offers a large amount of goods information, and makes bidders firmly believe that they can buy the cheap goods through the online auction system. The system mainly includes the functions that are divided into user management, goods management, auction management, etc.
 
